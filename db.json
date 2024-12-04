@@ -1,0 +1,9 @@
+{
+    "todos": [
+      { "id": 1, "title": "Learn Angular", "done": false, "date": "2024-11-28", "description": "Learn Angular components, services, etc." }
+    ],
+    "users": [
+      { "id": 1, "login": "admin", "password": "admin", "token": "123456" }
+    ]
+  }
+  
